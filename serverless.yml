@@ -21,7 +21,7 @@ provider:
     PROFILE_BY_USER_INDEX: ProfileByUserIndex
     TRANSACTIONS_TABLE: Transactions-emmanuel-${self:provider.stage}
     TRANSACTIONS_BY_PROFILE_INDEX: TransactionsByProfileIndex
-    WALLET_TRANSACTIONS_TABLE: Wallet-Transactions-tobenna-${self:provider.stage}
+    WALLET_TRANSACTIONS_TABLE: Wallet-Transactions-emmanuel-${self:provider.stage}
     WALLET_TRANSACTIONS_BY_USER_INDEX: WalletTransactionsByUserIndex
     ATTACHMENTS_S3_BUCKET: profile-attachments-emmanuel-${self:provider.stage}
     SIGNED_URL_EXPIRATION: 300
