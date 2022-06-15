@@ -1,7 +1,6 @@
 org: tobennanwokike
 app: billpay-app
-service:
-  name: billpay-app
+service:  billpay-app
 
 plugins:
   - serverless-webpack
