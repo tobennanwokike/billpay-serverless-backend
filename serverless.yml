@@ -1,5 +1,3 @@
-org: tobennanwokike
-app: billpay-app
 service:  billpay-app
 
 plugins:
